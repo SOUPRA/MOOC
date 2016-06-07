@@ -1,0 +1,172 @@
+		MOOC Comptabilité CNAM	Avril 2016 
+
+1- Impact de la création d'un société dans les états financiers
+Définition de l'entité comptable (support de la comptabilité)
+
+2- Bilan
+Passif (ressources disponibles) Actif (utilisation des ces ressources)
+
+3- Le compte de résultat
+la représentation de l'exploitation de l'entreprise
+
+4- Le compte de résultat à l'intérieur du bilan
+---------------------------------------------------------------------------
+1- Entité comptable (= périmètre et support)
+a- activité économique => Métier
+b- moyens économiques => ressources matériel/humain/financier
+c- moyens éco. TOTALEMENT SEPARES du patrimoine et des transaction personnels de ses propriétaires.
+
+2- Comptabilité financière
+= systeme d'info subjectif ayant pour object la mesure de la "valeur"...
+
+Sujectif : pouvoir de créer de la richesse / Pouvoir de créer des pertes
+
+... des moyens économiques :
+Patrimoine de l'entité : BILAN
+-------------|----------------
+Emplois  <------  Ressources
+
+... des résultat :
+Compte de résultat
+-------------|----------------
+Charges  <------ Produits 
+	     |
+
+3- Présentation du Passif du Bilan
+=> somme de toute ressource qui finance un société
+Permet d'aprécié 2 risques :
+1- INSOLVABILITE
+2- CESSASION DE PAIEMENENT 
+
+BILAN
+--------------------
+| CAPITAUX PROPRES			-
+| Capital
+| Résultat (bénéf. ou Pertes)
+| 
+| EMPRUNTS			Par ordre d'exigibilité croissante
+| PASSIFS CIRCULANT 
+| Dettes fournisseurs
+| Dettes fiscales
+| Dettes sociales			+
+
+4- Présentation de l'Actif du Bilan
+=> utilisation des fonds
+
+		BILAN
+-----------------------------------------------------
+ACTIF IMMOBILISES		|	-
+Immobilisations Incorporelles	|
+Immobilisations COrporelles	|
+Immobilisations Financières	|
+				|	Par ordre de liquidité
+ACTIFS CIRCULANTS		|	Croissante
+Stocks				|
+Créances			|
+Disponibilité(Trésorie) 
+
+5- Présentation du compte de résultat
+
+Compte de résultat
+Charge	                     |		Produit
+-------------------------------------------------------------
+Charge Consommé dans l'année | Production vendu de l'année
+
+Bénéfices                    | Pertes
+Produits > charges           | Produits < charges
+-----------------------------------------------------------
+Charges d'exploitation       | Produits d'exploitation
+charges financières          | Produits financiers
+charges exceptionnelles      | Produits exceptionnels
+
+
+	Semaine 2 -------------------------->>>
+2.1- Décomposition du chiffre d'affaires
+PRODUITS :
+Produits d'exploitation
+	Ventes de marchandises
+	Production vendue
+		Production vendue de biens
+		Production vendue de service
+	Production immobilisée
+Produits financiers
+	Autres intérets et produits assimilés
+	Produits nets de cession Valeur mobiliere de Placement
+Produits exceptionnels
+	Sur opérations de gestion (dons..)
+	Sur opérations en capital (vente d'immo.)
+
+2.2 Décomposition des charges
+Charges d'exploitation
+	Achats de marchandises
+	Achats de matière 1er et approvisionnement
+	Autres charges et charges externes
+	Impot, taxes et versement assimilés
+	Charges de personnel
+Charges financières
+	Charges d'intérets
+Charges exceptionnelles
+
+	Semaine 3 --------------------------->>>
+3.1 Inventaire et les notions de valeurs
+
+qu'est ce que l'inventaire ?
+> Actif et Passif doivent etre identifié et valorisé
+
+Comment valorisé ?
+> cout d'entrée dans le compte (Valeur comptable)
+> Valeur comptable -  son ammortissement (valeur cout)
+> la valeur de marché : dans l'hypothese ou il existe un marché sur lequel s'échange cet actif. (attention à l'indice d'usure) 
+> la valeur actuarielle ou d'usage ou d'utilité
+	2 Principes doivent etre respecté :
+	-Principe de l'image fidèle
+	-Principe de prudence
+
+BILAN
+Actif	|	Valeur 	|	Ammortissements | Net
+	|	Brute	|	Depreciations	|
+
+Passif		| Net
+...		|
+PROVISIONS 	|
+
+3.2 Le concept de l'actualisation
+CAPITALISATION
+100€ à 10 		 => 1.10 x 100 = 110€
+100x(1.10)^-1 = 90.91€	<= 100€
+CapitalAnnéN = CapitalOrigine x (1+ Taux)^nombreAnnéePlacé
+
+ACTUALISATION
+ex: 10000€/an au bout de 10 ans on à (avec taux 6%)
+	10000 x (1-1.06^10)/0.06 = 73600€
+
+3.3 Les stocks et leurs variations
+***********************************
+
+3.4 Le concept d'amortissement
+=> permet d'incorporer le cout d'un actif immobiliser dans les charges du compte de résultat
+
+4 vitesses  :	1- l'utilisation de l'actif
+		2- l'obsolescence
+		3- la durée de protection juridique (ex brevet)
+		4- imposées par le fisc (a minima le
+		    linéaire et plus le dégréssif)
+
+Interdiction d'amortissement : Les Terrains et Titre financiers :action..
+
+3.5 Le concept de dépréciation
+	AMORTISSEMENT		 	|	DEPRECIATION
+	perte de valeur définitive	|
+		   
+		   
+		   
+SEMAINE 4 - La croissance interne des sociétés
+
+4.1 Impact des acquisitions d'immobilisations corporelles dans les comptes
+Cout d'acquisition d'une immoblisation :
+	- Prix HT , déduction faire des remise,
+	- Cout engagés pour le transport sur lieu d'utilisaition
+	- Cout de mise en fonctionnement
+	- cout de démantelement
+
+:
